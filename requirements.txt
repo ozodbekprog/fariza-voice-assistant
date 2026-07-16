@@ -1,0 +1,6 @@
+telethon>=1.0.0  # Telegram API kliyenti
+openai>=1.40.0  # OpenAI API integratsiyasi
+pydub>=0.25.0  # Audio fayl ishlov berish
+requests>=2.28.0  # HTTP so'rovlar
+python-dotenv>=0.20.0  # Environment o'zgaruvchilarni yuklash
+imageio-ffmpeg>=0.4.0  # Video/audio konversiya

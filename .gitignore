@@ -1,0 +1,65 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Telegram session files
+*.session
+*.session-journal
+
+# Application storage
+storage/
+arxiv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+fariza_env/
+.venv/
+env/
+ENV/
+
+# Audio files
+*.mp3
+*.ogg
+*.wav
+aisha_response.mp3
+
+# Media files
+photo.jpg
+*.jpg
+*.png
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Pytest
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Logs
+*.log
